@@ -41,7 +41,7 @@ To run the application, use:
    ```bash 
    node index.js
 ```
-![image](https://github.com/user-attachments/assets/2754f6b4-3013-47cb-a367-54e7e9b7c141)
+![image](https://github.com/user-attachments/assets/8f840b82-e32e-4e33-9d9d-a007c37e0e5f)
 
 Once the application is running, it monitors the input folder for new files. When a new file is added, the following process occurs:
 
